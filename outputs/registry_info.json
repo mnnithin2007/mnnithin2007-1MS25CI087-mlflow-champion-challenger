@@ -3,6 +3,6 @@
     "student_usn": "1MS25CI087",
     "registered_model_name": "sentiment-model",
     "winner": "model_A",
-    "champion_version": "1",
-    "challenger_version": "2"
+    "champion_version": "3",
+    "challenger_version": "4"
 }

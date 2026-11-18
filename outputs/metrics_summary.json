@@ -13,8 +13,8 @@
             "recall": 0.851063829787234,
             "f1": 0.8888888888888888,
             "macro_f1": 0.898989898989899,
-            "avg_latency_ms": 113.72046400000727,
-            "total_inference_s": 11.372046400000727
+            "avg_latency_ms": 113.59545100000105,
+            "total_inference_s": 11.359545100000105
         }
     },
     "model_B": {
@@ -26,11 +26,11 @@
             "recall": 0.9574468085106383,
             "f1": 0.9782608695652174,
             "macro_f1": 0.9798711755233495,
-            "avg_latency_ms": 791.682136999998,
-            "total_inference_s": 79.1682136999998
+            "avg_latency_ms": 1109.9062300000003,
+            "total_inference_s": 110.99062300000003
         }
     },
     "delta_macro_f1": 0.08088127653345045,
-    "latency_ratio_b_over_a": 6.961650604942549,
+    "latency_ratio_b_over_a": 9.770692578173664,
     "winner": "model_A"
 }
