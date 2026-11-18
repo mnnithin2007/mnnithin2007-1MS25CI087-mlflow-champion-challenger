@@ -1,0 +1,9 @@
+{
+    "student_name": "Nithin",
+    "student_usn": "1MS25CI087",
+    "model_a_run_id": "4f55c389691f4a08a262f4ca65b0193c",
+    "model_b_run_id": "33bac9fcacbb4f85b030b67605aa526c",
+    "summary_run_id": "e5425c3693284a9b9a0ef9d9a0ec3eaf",
+    "winner": "model_A",
+    "registered_model_name": "sentiment-model"
+}

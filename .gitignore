@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+mlartifacts/
+.cache/
+.env
+temp.py
