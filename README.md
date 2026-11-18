@@ -81,7 +81,6 @@ mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./
 
 ### Step 3: Run the Pipeline Scripts in Order (Terminal 2)
 ```powershell
-python test_models.py
 python prepare_data.py
 python evaluate.py
 python register_champion.py
